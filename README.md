@@ -1,4 +1,4 @@
-# Pizza-Sales
+# Pizza-Sales-Project
 ## KPI's REQUIREMENT
 I have analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically,  We have to calculate the following metrics:
 1. Total Revenue: The sum of the total price of all pizza orders.
